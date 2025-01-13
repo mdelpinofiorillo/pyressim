@@ -1,8 +1,8 @@
 Metadata-Version: 2.2
-Name: fluxion
+Name: pyressim
 Version: 0.1.0
-Summary: Fluxion: A Next-Gen Reservoir Simulator
-Home-page: https://github.com/yourusername/fluxion
+Summary: PyResSim: A Next-Gen Reservoir Simulator
+Home-page: https://github.com/yourusername/pyressim
 Author: Mario
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
@@ -11,6 +11,7 @@ Requires-Dist: pandas
 Requires-Dist: scipy
 Requires-Dist: matplotlib
 Requires-Dist: pyvista
+Requires-Dist: setuptools
 Dynamic: author
 Dynamic: classifier
 Dynamic: home-page
